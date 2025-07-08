@@ -1,0 +1,13 @@
+langchain
+openai
+huggingface_hub
+streamlit
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+groq
+langchain-groq
